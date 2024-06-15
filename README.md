@@ -1,5 +1,5 @@
 # FaceViT: A lightweight multitask Vision Transformer for face detection, age prediction and gender classification
-FaceViT: A small-sized multi-task Vision Transformer for face detection, age estimation, and gender prediction, demonstrating the ability of the Vision Transformer to perform great across different tasks such as object detection and multiple classifications simultaneously.
+FaceViT: A small-sized multi-task Vision Transformer trained from scratch for face detection, age estimation, and gender prediction, demonstrating the ability of the Vision Transformer to perform great across different tasks such as object detection and multiple classifications simultaneously.
 
 
 # Dataset
